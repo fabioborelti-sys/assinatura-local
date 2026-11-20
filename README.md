@@ -6,7 +6,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="Status" src="https://img.shields.io/badge/status-concluído-2ea44f">
+  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-f59e0b">
 </p>
 
 ## A ideia
@@ -24,6 +24,8 @@ empresa.
   para a assinatura.
 - O colaborador recebe um link, confere o documento e assina com o dedo no celular.
 - O documento assinado volta sozinho para o sistema, pronto para consulta.
+
+O projeto está em desenvolvimento há mais de 3 semanas.
 
 Serve para qualquer documento interno: contratos, termos, políticas, comunicados e
 autorizações.
